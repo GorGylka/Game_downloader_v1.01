@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.727,C:\Users\User\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\User\Documents\RAD Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.762,C:\Users\User\Documents\RAD Studio\Projects\Project2.dproj=C:\Users\User\Documents\RAD Studio\Projects\Project_wiiu.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Users\User\Documents\RAD Studio\Projects\Unit2.dfm=C:\Users\User\Documents\RAD Studio\Projects\wiiu.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.866,C:\Users\User\Documents\RAD Studio\Projects\Unit2.pas=C:\Users\User\Documents\RAD Studio\Projects\wiiu.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.475,=C:\Users\User\Documents\RAD Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2016.10.26 16:53:11.100,C:\temp\WiiU\Project_wiiu.dproj=C:\Users\User\Documents\RAD Studio\Projects\Project_wiiu.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
